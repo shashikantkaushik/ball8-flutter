@@ -17,7 +17,7 @@ My goal is give you the knowledge to create a Flutter app entirely from scratch,
 
 ## 🚀 Preview
 
-![Image description](https://i.imgur.com/JjiSML3.png) 
+![Image description](https://media.geeksforgeeks.org/wp-content/uploads/20210119202209/BuildaSimpleMagic8BallAppinAndroid.gif) 
 
 <br>
 
@@ -27,13 +27,13 @@ My goal is give you the knowledge to create a Flutter app entirely from scratch,
 ***In order to clone the project via HTTPS, run this command:***
 
 ```
-$> gh repo clone shashikantkaushik/i_am_rich_flutter
+$> gh repo clone shashikantkaushik/ball8-flutter
 ```
 
 SSH URLs provide access to a Git repository via SSH, a secure protocol. If you have a SSH key registered in your Github account, clone the project using this command:
 
 ```
-$> git@github.com:shashikantkaushik/i_am_rich_flutter.git
+$>git@github.com:shashikantkaushik/ball8-flutter.git
 ```
 
 **Install dependencies**
