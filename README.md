@@ -53,7 +53,7 @@ $> flutter run
 
 ## :bug: Issues
 
-Feel free to **file a new issue** with a respective title and description on the [IAmRich](https://github.com/shashikantkaushik/i_am_rich_flutter/issues) repository. If you already found a solution to your problem, **I would love to review your pull request**! Have a look at our [contribution guidelines](https://github.com/shashikantkaushik/shashikantkaushik/blob/0fd685cf10e86a234fde5e249208d79ec8165472/CONTRIBUTING.md) to find out about the coding standards.
+Feel free to **file a new issue** with a respective title and description on the [Ball8](https://github.com/shashikantkaushik/ball8-flutter/issues) repository. If you already found a solution to your problem, **I would love to review your pull request**! Have a look at our [contribution guidelines](https://github.com/shashikantkaushik/shashikantkaushik/blob/0fd685cf10e86a234fde5e249208d79ec8165472/CONTRIBUTING.md) to find out about the coding standards.
 
 <br>
 
